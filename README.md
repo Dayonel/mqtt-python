@@ -1,3 +1,12 @@
+# Installations
+```
+python -m pip install requests
+```
+
+```
+pip install paho-mqtt
+```
+
 ## Run subscriber
 1st argument `topic`
 ```
